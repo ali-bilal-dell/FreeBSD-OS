@@ -1,6 +1,6 @@
 # FreeBSD-OS
 This is a documentation about learning and working with FreeBSD operating system. includes history, installation steps, system call implementation and other core concepts.
-[ View Full PDF Documentation on](./OSSP_Individual_Rahel-Temesgen-Tigabu_bdu1602313_B.pdf)
+[ View Full PDF Documentation](./OSSP_Individual_Rahel-Temesgen-Tigabu_bdu1602313_B.pdf)
 
 
 ## Installation step
